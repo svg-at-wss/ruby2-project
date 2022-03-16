@@ -18,8 +18,10 @@
       "enabled": true
     },
     "packageRules": [
-      "matchLanguages": ["python"],
-      "allowedVersions": "<=2.9.9"
+      {
+        "matchLanguages": ["python"],
+        "allowedVersions": "<=2.9.9"
+      }
     ],
     "dependencyDashboard": true
   }
