@@ -20,10 +20,10 @@
     },
     "packageRules": [
       {
-        "matchLanguages": ["python"],
+        "matchLanguages": ["ruby"],
         "allowedVersions": "<=2.9.9"
       }
     ],
-    "dependencyDashboard": true
+    "dependencyDashboard": true,
   }
 }
