@@ -18,7 +18,7 @@
       "enabled": true
     },
     "packageRules": [
-      "matchLanguages": ["null"],
+      "matchLanguages": ["python"],
       "allowedVersions": "<=2.9.9"
     ],
     "dependencyDashboard": true
