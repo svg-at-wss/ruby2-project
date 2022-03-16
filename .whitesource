@@ -20,7 +20,7 @@
     },
     "packageRules": [
       {
-        "matchLanguages": ["ruby"],
+        "matchLanguages": ["python"],
         "allowedVersions": "<=2.9.9"
       }
     ],
